@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- 🌱 I’m currently learning about graph SLAM 
-- 🔭 I’m currently working on autonomous robots for agriculture
+- 🌱 I’m currently learning about graph SLAM.
+- 🔭 I’m currently working on mapping and computer vision applied to mobile robots in agriculture.
 
 
 
