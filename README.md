@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-- 🌱 I’m currently learning about graph SLAM.
+### 
 - 🔭 I’m currently working on mapping and computer vision applied to mobile robots in agriculture.
 
 
