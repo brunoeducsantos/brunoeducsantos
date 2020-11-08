@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-informational?&style=for-the-badge&color=blue)
 ![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
+## ⚡ GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeducsantos)](https://github.com/anuraghazra/github-readme-stats)
 
