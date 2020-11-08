@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
 ![OpenCV](https://img.shields.io/badge/OpenCV-informational?&style=for-the-badge&color=blue)
 ![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-informational?&style=for-the-badge&logo=Keras&logoColor=white&color=F37626)
+![Keras](https://img.shields.io/badge/PCL-informational?&style=for-the-badge&color=green&logoColor=white&color=F37626)
+
 
 ## ⚡ GitHub Stats
 
