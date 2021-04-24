@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoeducsantos&count_bg=%2379C83D&title_bg=%23555555&icon=dependabot.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 
 - 🔭 I’m currently working on mapping and computer vision applied to mobile robots in agriculture.
 - 🌱 I’m currently learning about graph SLAM and factor-graphs.
@@ -35,5 +36,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeducsantos)](https://github.com/anuraghazra/github-readme-stats)
 
 ![BrunoSantosStats](https://github-readme-stats.vercel.app/api?username=brunoeducsantos&show_icons=true&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoeducsantos&count_bg=%2379C83D&title_bg=%23555555&icon=udacity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
