@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **about graph SLAM and factor-graphs.**
 
-- 👨‍💻 All of my projects are available at [[robotlearn](https://brunoeducsantos.github.io/robotlearn/)]([robotlearn](https://brunoeducsantos.github.io/robotlearn/))
+- 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/)
 
 
 <h3 align="left">Languages and Tools:</h3>
