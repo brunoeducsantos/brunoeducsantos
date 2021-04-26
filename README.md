@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## ⚡ GitHub Stats
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+👯 Visitors: ![Visitor Count](https://profile-counter.glitch.me/brunoeducsantos/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeducsantos)](https://github.com/anuraghazra/github-readme-stats)
 
