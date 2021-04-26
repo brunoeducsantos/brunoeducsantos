@@ -1,5 +1,3 @@
-<h3 align="center">Autonomous Robotics Engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoeducsantos&label=Profile%20views&color=0e75b6&style=flat" alt="brunoeducsantos" /> </p>
 
 - 🔭 I’m currently working on **mapping and computer vision applied to mobile robots in agriculture**
