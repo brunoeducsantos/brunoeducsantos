@@ -1,40 +1,17 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoeducsantos&label=Profile%20views&color=0e75b6&style=flat" alt="brunoeducsantos" /> </p>
+
+- 🔭 I’m currently working on **mapping and computer vision applied to mobile robots in agriculture**
+
+- 🌱 I’m currently learning **about graph SLAM and factor-graphs.**
+
+- 👨‍💻 All of my projects are available at [[robotlearn](https://brunoeducsantos.github.io/robotlearn/)]([robotlearn](https://brunoeducsantos.github.io/robotlearn/))
 
 
-<!--
-**brunoeducsantos/brunoeducsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoeducsantos&show_icons=true&locale=en&layout=compact" alt="brunoeducsantos" /></p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 
-- 🔭 I’m currently working on mapping and computer vision applied to mobile robots in agriculture.
-- 🌱 I’m currently learning about graph SLAM and factor-graphs.
-- 📫 How to follow my ideas: [robotlearn](https://brunoeducsantos.github.io/robotlearn/) 
-
-## 🔧 Technologies & Tools
-<!-- coutresy of https://github.com/alexandresanlim/Badges4-README.md-Profile-->
-![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
-![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&color=000080)
-![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
-![OpenCV](https://img.shields.io/badge/OpenCV-informational?&style=for-the-badge&color=blue)
-![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-informational?&style=for-the-badge&logo=Keras&logoColor=white&color=F37626)
-![Keras](https://img.shields.io/badge/PCL-informational?&style=for-the-badge&color=green&logoColor=white&color=F37626)
-
-
-## ⚡ GitHub Stats
-👯 Visitors: ![Visitor Count](https://profile-counter.glitch.me/brunoeducsantos/count.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeducsantos)](https://github.com/anuraghazra/github-readme-stats)
-
-![BrunoSantosStats](https://github-readme-stats.vercel.app/api?username=brunoeducsantos&show_icons=true&theme=radical)
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoeducsantos&show_icons=true&locale=en" alt="brunoeducsantos" /></p>
