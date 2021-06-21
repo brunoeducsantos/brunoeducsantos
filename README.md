@@ -1,7 +1,7 @@
 
 # Hello there!
 
-My name is Bruno and I'm a Autonomous Robotics Engineer at [Dynium](https://dynium.ai/) .
+My name is Bruno and I'm an Autonomous Robotics Engineer at [Dynium](https://dynium.ai/) .
 
 - 🔭 I’m currently working on **mapping/localization and computer vision applied to mobile robots in agriculture**
 
