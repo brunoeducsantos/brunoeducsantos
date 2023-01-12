@@ -15,6 +15,6 @@ My name is Bruno and I'm an Autonomous Robotics Engineer at [Dynium](https://dyn
 
 ## ⚡ GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoeducsantos&show_icons=true&locale=en&layout=compact" alt="brunoeducsantos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?user=brunoeducsantos&show_icons=true&locale=en&layout=compact" alt="brunoeducsantos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoeducsantos&show_icons=true&locale=en" alt="brunoeducsantos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user=brunoeducsantos&show_icons=true&locale=en" alt="brunoeducsantos" /></p>
