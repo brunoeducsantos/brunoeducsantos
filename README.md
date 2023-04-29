@@ -1,13 +1,13 @@
 
 # Hello there!
 
-My name is Bruno and I'm an Autonomous Robotics Engineer at [Dynium](https://dynium.ai/) .
+My name is Bruno and I'm an Software Engineer for Autonomous Driving at [Capgemini Engineering](https://www.capgemini.com/pt-en/about-us/who-we-are/our-brands/capgemini-engineering/).
 
-- 🔭 I’m currently working on **mapping/localization and computer vision applied to mobile robots in agriculture**
+- 🔭 I’m currently working on **radar perception**.
 
-- 🌱 I’m currently learning **about graph SLAM and factor-graphs.**
+- 🌱 I’m currently learning: [Robotics Master](https://github.com/brunoeducsantos/RoboticsMaster).
 
-- 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/)
+- 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/).
 
 ## 🔧 Technologies & Tools
 
