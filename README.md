@@ -17,4 +17,4 @@ My name is Bruno and I'm an Software Engineer for Autonomous Driving at [Capgemi
 ## Github Stats
 
 ![bruno's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunoeducsantos&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunoeducsantos&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+
