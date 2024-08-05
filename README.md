@@ -1,11 +1,9 @@
 
 # Hello there!
 
-My name is Bruno and I'm an Software Engineer for Autonomous Driving at [Capgemini Engineering](https://www.capgemini.com/pt-en/about-us/who-we-are/our-brands/capgemini-engineering/).
+My name is Bruno, I'm a Physicist and a Robotics Software Engineer.
 
-- 🔭 I’m currently working on **radar perception**.
-
-- 🌱 I’m currently learning: [Robotics Master](https://github.com/brunoeducsantos/RoboticsMaster).
+- 🌱 I’m currently learning: [Robotics Master](https://github.com/brunoeducsantos/RoboticsMaster) + [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
 
 - 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/).
 
