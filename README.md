@@ -3,7 +3,7 @@
 
 My name is Bruno, I'm a Physicist and a Robotics Software Engineer.
 
-- 🌱 I’m currently learning: [Robotics Master](https://github.com/brunoeducsantos/RoboticsMaster) + [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
+- 🌱 I’m currently learning SLAM at  [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
 
 - 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/).
 
