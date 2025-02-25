@@ -1,9 +1,9 @@
 
 # Hello there!
 
-My name is Bruno, I'm a Physicist, Robotics Software Engineer and Student at [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
+My name is Bruno, I'm a Physicist, a Robotics Software Engineer and a Student at [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
 
-- 🌱 I’m currently learning Visual SLAM.
+- 🌱 I’m currently learning about Visual SLAM.
 
 - 👨‍💻 Follow my ideas at: [robotlearn](https://brunoeducsantos.github.io/robotlearn/).
 
