@@ -1,7 +1,7 @@
 
 # Hello there!
 
-My name is Bruno, I'm a Physicist, a Robotics Software Engineer and a 3D vision Student Researcher at [Master Robotics, Graphics and Computer Vision](https://estudios.unizar.es/estudio/ver?id=713).
+My name is Bruno, I'm a Physicist, a Robotics Software Engineer and a 3D vision Student Researcher in MedTech.
 
 - 🌱 I’m currently learning about Visual SLAM and TSDF.
 
